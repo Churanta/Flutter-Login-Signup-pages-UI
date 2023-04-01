@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a Flutter app that is made for Motocross India.
+This is a Flutter app Created and Designed by 'Churanta Mondal'.
 
 ## Requirements
 
@@ -37,3 +37,47 @@ This app was created by Churanta Mondal.
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 # Flutter-Login-Signup-pages-UI
+
+# Flutter
+
+# FlutterApp
+
+# MotocrossIndia
+
+# MobileApp
+
+# GitHub
+
+# OpenSource
+
+# VisualStudioCode
+
+# DartProgramming
+
+# MITLicense
+
+# LoginUI
+
+# SignUpUI
+
+# UIDesign
+
+# UserInterface
+
+# MobileDevelopment
+
+# MobileApps
+
+# CrossPlatform
+
+# FlutterCommunity
+
+# login
+
+# signin
+
+# OTP
+
+# Flutter login signup
+
+# flutter verify OTP

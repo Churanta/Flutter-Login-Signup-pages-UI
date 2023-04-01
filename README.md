@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a Flutter app Created and Designed by 'Churanta Mondal'.
+This is a Flutter app Created and Designed by `Churanta Mondal`.
 
 ## Requirements
 
